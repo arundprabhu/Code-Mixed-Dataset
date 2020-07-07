@@ -1,6 +1,6 @@
 1	samay warner mahakavy vifal	0	0
-2	Lawson to head Newedge Hong Kong	1	1
-3	Weird Piano Guitar House in China !	1	1
+2	lawnson ke liye nae saal ke honkong	1	1
+3	china main ajeeb piano guitar ghar!	1	1
 4	hamen apana jiem / chevi photo bhejein	1	1
 5	I know . yah kitna udhaas he? tufaan ke mausam kaa pehla din That 's less scary sarkaar jiem par le jane se	0	0
 6	GM files bankruptcy , acha sanket nahin	0	0
@@ -18,8 +18,8 @@
 18	portland city raajnneeti besabaal park ko purvavat kar sakati he	1	1
 19	sie ne mastishk se surakshit rup se bottleband,  resold ek laabh par Wells are drying county bhar main upar	1	1
 20	use hataa diya broccoli walking home seppeve se! isliye udhaas	1	1
-21	We do n't have Safeway	1	1
-22	Just applied at Safeway !	2	2
+21	ham surakshitve nahin hai	1	1
+22	bas surakshitve par lagu!	2	2
 23	Safeway . jagah ek duswapn he abhi Bumming .	0	0
 24	pitaaji ke saath surakshitve par	1	1
 25	nafrat se surakshitve hari chaay icecream kaa chayan karen ! Bought two cartons , kya paise kii barbaadi he	0	0
@@ -29,14 +29,14 @@
 29	kiraane kii dukaan yatra ke liye chunakar dhan bachaaya or stocking food hotel ke frij banaam shahar main baahar har raat baahar khaane se.	1	1
 30	Lounging around , eating Taco Bell or ensiaies dekh rahaa he before work tonight . jaagane main madad kii zarurat he	1	1
 31	naashtaa khaaen or phir skool	1	1
-32	Still hungry after eating .	1	1
+32	khaane ke baad abhi bhi bhukh lagi he	1	1
 33	swasth bhojan ke liye 10 yuktiyaan? ResultsBy Fitness blog .	1	1
 34	premi ke saath , eating a quesadilla	1	1
 35	Eating dinner . maance,  chips , or risoto	1	1
 36	ek nai jodi mili of Nike shoes . baad main chitra	1	1
-37	Nike SB Blazer High ACG Custom Brad Douglas .	1	1
+37	nike esabi blader ucch asiji custom bread duglas	1	1
 38	Nike rocks . main super abhaari hoon for what I 've done unke saath or nike ke europea vibhaajan se pare he!	2	2
-39	Nike Air Yeezy Khaki Pink Colorway Release .	1	1
+39	nike air yizi khaaki gulabi rang relies	1	1
 40	Have you tried Nike ? bahut nashe kii lat	2	2
 41	That looks an awful lot nike ke nijee jet vimaanon main se ek kii tarah I 'm just saying	1	1
 42	nike prashikshan club beta yphone aavedan dikhataa he bahut dilachasp	2	2
@@ -46,7 +46,7 @@
 46	I 'm ready bahes ko chhodane ke liye , I am forever in love jQuery ke saath,  and mujhe chahie ise shaadi karne ke liye Sorry ladies , yah bevakoof jQuery.spokenfor.js he	2	2
 47	yah thanda he I was looking Google ke chart yaa vizualizeshan epiai or yah jQuery aavaran paaya epiai ke liye	1	1
 48	maine sabase adhik kharch kiya of my day ek jQuery pustak padhanaa Now to start kuch bhaybheet pinaa tremens .	1	1
-49	Jquery Selectors .	1	1
+49	JQuery chayankarta	1	1
 50	How to implement a news ticker jQuery or code kii das linon ke saath	1	1
 51	What 's Buffet Doing ? warren baffate kik bat enen ladaai The Boots . elex kripp dwaara post kiya gaya	1	1
 52	Super Investors . ek mahaan saptahanth padhaa here from Warren Buffet . oldy, lekin ek gudi	2	2
